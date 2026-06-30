@@ -14,7 +14,11 @@ const swaggerOptions = {
       {
         url: "http://localhost:3000",
         description: "Servidor local"
-      }
+      },
+      {
+        url: "https://sgt-api-0aj3.onrender.com/",
+        description: "Ambiente de produção"
+      },
     ],
 
     components: {
