@@ -16,7 +16,7 @@ const swaggerOptions = {
         description: "Servidor local"
       },
       {
-        url: "https://sgt-api-ai9h.onrender.com",
+        url: "https://sgt-api-sfie.onrender.com",
         description: "Ambiente de produção"
       },
     ],
